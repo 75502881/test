@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         let okaction = UIAlertAction(title: "好的", style: UIAlertActionStyle.Default){(_)->Void in}
         let okaction2 = UIAlertAction(title: "好的呀", style: UIAlertActionStyle.Default){(_)->Void in}
         
-        let okaction3 = UIAlertAction(title: "好的呀", style: UIAlertActionStyle.Default){(_)->Void in}
+        let okaction3 = UIAlertAction(title: "好呀", style: UIAlertActionStyle.Default){(_)->Void in}
         
         ac.addAction(okaction)
         ac.addAction(okaction2)
